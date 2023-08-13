@@ -466,5 +466,95 @@ ideologies = [
             "govt": 100,
             "scty": 50
         }
+    },
+    {
+        "name": "Green Anarchism",
+        "stats": {
+            "econ": 60,
+            "dipl": 90,
+            "govt": 100,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Eco-Socialism",
+        "stats": {
+            "econ": 70,
+            "dipl": 80,
+            "govt": 70,
+            "scty": 90
+        }
+    },
+    {
+        "name": "Deep Ecology",
+        "stats": {
+            "econ": 80,
+            "dipl": 90,
+            "govt": 100,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Social Ecology",
+        "stats": {
+            "econ": 70,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Agrarianism",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Democratic Confederalism",
+        "stats": {
+            "econ": 80,
+            "dipl": 90,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Anarcho-Pacifism",
+        "stats": {
+            "econ": 70,
+            "dipl": 100,
+            "govt": 100,
+            "scty": 90
+        }
+    },
+    {
+        "name": "Feminism",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Queer Liberation",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Anti-Globalization",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 40,
+            "scty": 50
+        }
     }
 ];
